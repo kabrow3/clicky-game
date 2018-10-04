@@ -1,0 +1,45 @@
+.navbar-dark {
+  background-color: #cc1609;
+  height: 50px;
+}
+
+.navbar-dark a {
+  color: rgb(228, 205, 3);
+  padding-bottom: 20px;
+  padding-top: 0px;
+  
+}
+
+.jumbotron {
+  color: white;
+  background-color: black;
+}
+
+.holder {
+  height: 160px;
+  width: 160px;
+}
+
+.img-container {
+  height: 160px;
+  width: 160px;
+}
+
+.img-container img {
+  height: 160px;
+  width: 160px;
+}
+
+.container-fluid {
+  background-color: #cc1609;
+}
+
+.jumbotron-fluid {
+  height: 100px;
+  padding-bottom: 50px;
+  padding-top: 0px;
+}
+
+body {
+  background-color: black;
+}
